@@ -9,3 +9,7 @@
     <h1>Hola GIT</h1>
 </body>
 </html>
+
+<?php
+    echo "Hola Mundo";
+?>
