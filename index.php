@@ -11,6 +11,5 @@
 </html>
 
 <?php
-    echo "Hola rama master";
-    echo "rama master";
+    echo "Hola ramita";
 ?>
